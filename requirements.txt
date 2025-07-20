@@ -1,0 +1,7 @@
+BeautifulSoup4
+requests
+playwright
+pandas
+xlwt
+
+selenium
